@@ -1,0 +1,15 @@
+"*":
+  "exception-reporting":
+    userId: "3afdb513-1064-94c9-e8e0-792ee5d520dc"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+    fontFamily: "Ricty Diminished Discord"
+    fontSize: 16
